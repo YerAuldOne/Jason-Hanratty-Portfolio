@@ -2,8 +2,12 @@ img
 {
   border-radius: 25px;
 }
-
-
+body{
+ overflow: hidden;
+    height: 100%;
+    position: fixed;
+    width:100%;
+}
 .chart-wrapper {
   width: 500px;
   height: 500px;
